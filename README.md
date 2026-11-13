@@ -19,6 +19,8 @@ Windows 9x freezes at the boot logo on VIA VX900 boards, and locks up when an MS
 
 Graphics on both is the VX900 integrated Chrome9 (PCI `1106:7122`). The fix is in Windows, so it does not depend on the board or the video BIOS version.
 
+Windows 95, 98 and Me use one processor core. On a dual-core chip such as the Eden X2, CPU-Z shows 1 core and 1 thread, as in the screenshots below. That is how these versions of Windows work, not a fault and not something this fix changes.
+
 | | |
 | --- | --- |
 | ![Gigabyte CPU](images/gigabyte-m7v90pi-cpu.png) | ![Gigabyte mainboard](images/gigabyte-m7v90pi-mainboard.png) |
